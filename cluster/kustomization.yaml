@@ -1,3 +1,5 @@
 bases:
   - ./common/
   - ./cloud-project/
+  - ./Force-Covid-19-Api/
+  - ./Force-Covid-19-Front/
