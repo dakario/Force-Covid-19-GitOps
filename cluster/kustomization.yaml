@@ -1,3 +1,5 @@
 bases:
   - ./common/
   - ./cloud-project/
+  - ./api/
+  - ./front/
