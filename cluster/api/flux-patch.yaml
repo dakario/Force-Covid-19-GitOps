@@ -16,7 +16,7 @@ spec:
             - --ssh-keygen-dir=/var/fluxd/keygen
             - --k8s-allow-namespace=api
             - --git-url=git@github.com:dakario/Force-Covid-19-backend.git
-            - --git-branch=dev
+            - --git-branch=gitops
 ---
 apiVersion: rbac.authorization.k8s.io/v1beta1
 kind: RoleBinding
